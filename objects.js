@@ -5,4 +5,5 @@ var playlist = {
 
 function updatePlaylist(playlist, artist, song) {
   var playlist.artist =  song;
+  retrun playlist
 }
