@@ -1,4 +1,4 @@
 var playlist = {
   Hozier: "East of Eden",
-  Lord Huron: "Time to Run"
+  LordHuron: "Time to Run"
 }
