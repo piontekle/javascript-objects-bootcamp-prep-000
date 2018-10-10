@@ -3,7 +3,7 @@ var playlist = {
   LordHuron: "Time to Run"
 }
 
-function updatePlaylist(obj, artist, song) {
-  obj.artist =  song;
+function updatePlaylist(playlist, artist, song) {
+  playlist.artist =  song;
   return playlist
 }
