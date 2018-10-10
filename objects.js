@@ -1,7 +1,4 @@
-var playlist = {
-  Hozier: "East of Eden",
-  LordHuron: "Time to Run"
-}
+var playlist = {}
 
 function updatePlaylist(playlist, artistName, songTitle) {
   playlist.artistName =  songTitle;
