@@ -1,4 +1,6 @@
-var playlist = {}
+var playlist = {
+  Lord Huron: "Time to Run"
+}
 
 function updatePlaylist(playlist, artistName, songTitle) {
   playlist.artistName =  songTitle;
