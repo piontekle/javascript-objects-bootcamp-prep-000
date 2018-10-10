@@ -4,6 +4,6 @@ var playlist = {
 }
 
 function updatePlaylist(obj, artist, song) {
-  var obj.artist =  song;
+  obj.artist =  song;
   return playlist
 }
